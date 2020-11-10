@@ -6,8 +6,8 @@ leaflet:
     - external/Control.FullScreen.js
   
   cdn:
-    css: http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css
+    css: https://unpkg.com/leaflet@1.7.1/dist/leaflet.css
     jshead: 
-      - http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js
+      - https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
       - https://rawgithub.com/leaflet-extras/leaflet-providers/gh-pages/leaflet-providers.js
       - "http://harrywood.co.uk/maps/examples/leaflet/leaflet-plugins/layer/vector/KML.js"
